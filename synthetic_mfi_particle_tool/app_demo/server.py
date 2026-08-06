@@ -8,6 +8,8 @@ import re
 import time
 import urllib.parse
 import uuid
+import base64
+import os
 from collections import Counter
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -904,7 +906,32 @@ class Handler(SimpleHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(raw)
 
+    def _authorized(self) -> bool:
+        username = os.environ.get("EXPERT_USERNAME", "").strip()
+        password = os.environ.get("EXPERT_PASSWORD", "")
+        if not username or not password:
+            return True
+        header = self.headers.get("Authorization", "")
+        if not header.startswith("Basic "):
+            return False
+        try:
+            supplied_user, supplied_password = base64.b64decode(header[6:]).decode("utf-8").split(":", 1)
+        except Exception:
+            return False
+        return supplied_user == username and supplied_password == password
+
+    def _require_auth(self) -> bool:
+        if self.path.split("?", 1)[0] == "/api/status" or self._authorized():
+            return True
+        self.send_response(401)
+        self.send_header("WWW-Authenticate", 'Basic realm="MFI Expert App"')
+        self.send_header("Content-Length", "0")
+        self.end_headers()
+        return False
+
     def do_GET(self) -> None:
+        if not self._require_auth():
+            return
         parsed = urllib.parse.urlparse(self.path)
         path = parsed.path
         query = urllib.parse.parse_qs(parsed.query)
@@ -964,6 +991,8 @@ class Handler(SimpleHTTPRequestHandler):
         return super().do_GET()
 
     def do_POST(self) -> None:
+        if not self._require_auth():
+            return
         parsed = urllib.parse.urlparse(self.path)
         if parsed.path.startswith("/api/manual-labels/"):
             image_name = urllib.parse.unquote(parsed.path.removeprefix("/api/manual-labels/"))
@@ -1001,6 +1030,8 @@ class Handler(SimpleHTTPRequestHandler):
             return self.send_json({"error": str(exc)}, 500)
 
     def do_PATCH(self) -> None:
+        if not self._require_auth():
+            return
         parsed = urllib.parse.urlparse(self.path)
         if parsed.path == "/api/projects":
             try:
@@ -1032,6 +1063,8 @@ class Handler(SimpleHTTPRequestHandler):
             return self.send_json({"error": str(exc)}, 500)
 
     def do_DELETE(self) -> None:
+        if not self._require_auth():
+            return
         parsed = urllib.parse.urlparse(self.path)
         if parsed.path.startswith("/api/manual-labels/"):
             image_name = urllib.parse.unquote(parsed.path.removeprefix("/api/manual-labels/"))
@@ -1059,7 +1092,7 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main() -> None:
-    import argparse
+import argparse
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--host", default="127.0.0.1")
