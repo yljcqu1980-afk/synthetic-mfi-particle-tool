@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: synthetic-mfi-particle-tool
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/status
+    autoDeploy: true
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"

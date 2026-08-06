@@ -1,0 +1,48 @@
+{
+  "images": 420,
+  "metadata_rows": 26519,
+  "particles_total": 26519,
+  "particles_per_image": {
+    "min": 20,
+    "mean": 63.14047619047619,
+    "max": 160
+  },
+  "image_gray_mean": {
+    "min": 233.14625549316406,
+    "mean": 240.37054025559198,
+    "max": 246.65570068359375
+  },
+  "image_gray_std": {
+    "min": 5.251474380493164,
+    "mean": 12.19445408525921,
+    "max": 20.733604431152344
+  },
+  "class_counts": {
+    "0": 4776,
+    "1": 6032,
+    "2": 10408,
+    "3": 2636,
+    "4": 1074,
+    "5": 1593
+  },
+  "class_balance": {
+    "0": 0.1800972887363777,
+    "1": 0.22745955729854067,
+    "2": 0.3924733210151212,
+    "3": 0.09940042988046306,
+    "4": 0.04049926467815528,
+    "5": 0.06007013839134206
+  },
+  "duplicate_hash_groups": 0,
+  "bbox_errors": 0,
+  "issues": [
+    "train/train_0086.png: image brightness outside expected range (246.1).",
+    "train/train_0150.png: image brightness outside expected range (246.6).",
+    "train/train_0154.png: image brightness outside expected range (246.3).",
+    "train/train_0169.png: image brightness outside expected range (246.2).",
+    "train/train_0216.png: image brightness outside expected range (246.2).",
+    "val/val_0048.png: image brightness outside expected range (246.5).",
+    "test/test_0017.png: image brightness outside expected range (246.3).",
+    "test/test_0019.png: image brightness outside expected range (246.7)."
+  ]
+}

@@ -1,0 +1,11 @@
+numpy>=1.26
+Pillow>=10.0
+
+# Optional for real YOLO inference:
+ultralytics>=8.3
+torch
+
+# Optional for future enhancement/training pipelines:
+# opencv-python>=4.9
+# scikit-image>=0.23
+# pandas>=2.0

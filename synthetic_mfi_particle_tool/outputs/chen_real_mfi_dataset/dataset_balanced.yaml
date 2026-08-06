@@ -1,0 +1,11 @@
+path: C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset
+train: train_balanced.txt
+val: images/val
+test: images/test
+names:
+  0: bubble
+  1: cellulose_short
+  2: copper_particle
+  3: light_carbon_particle
+  4: dark_carbon_particle
+  5: cellulose_long

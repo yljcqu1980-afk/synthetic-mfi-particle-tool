@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 64" role="img" aria-label="Chongqing University">
+  <rect width="220" height="64" rx="8" fill="#ffffff"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#005aa0" stroke-width="3"/>
+  <path d="M18 38h28L32 16 18 38Z" fill="none" stroke="#005aa0" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M24 35h16M27 30h10M29 25h6" stroke="#005aa0" stroke-width="2" stroke-linecap="round"/>
+  <text x="32" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#005aa0">1929</text>
+  <text x="66" y="29" font-family="Microsoft YaHei, SimHei, Arial, sans-serif" font-size="18" font-weight="700" fill="#003f7f">重庆大学</text>
+  <text x="66" y="47" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#005aa0">Chongqing University</text>
+</svg>

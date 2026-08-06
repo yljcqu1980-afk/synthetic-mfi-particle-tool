@@ -1,0 +1,1155 @@
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (10)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (47)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (30)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (20)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (39)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (46)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (79)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (58)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (18).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (30)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (215)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (80)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (148)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (215)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (25)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (33)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (202).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (20)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (32)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (44)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (23)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (76)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (33).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (18)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-16.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (20)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (80)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (18)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (25)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (184)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (48)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (60)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (1)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (32)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (52)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (62)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (80)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (61)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (40)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (109)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (1)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (199)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (9)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (66)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-14_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (80)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (80)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (24)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (17)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (57)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (49)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (24)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (13).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (76)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-16_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (13)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (45)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (174)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (34)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (47)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (10)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (10)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (19)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (26)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (52)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (2)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (47)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (62)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (28)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (34)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (53).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (60)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-14_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (215).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (24)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (7).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (78)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (39)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (28)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (55)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (23)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (44)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-12_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (36)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (20)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-22_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (126)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (54)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-12_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (58)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (43)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (6)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (53)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (41)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (17)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (43)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (24)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (148)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (199)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (10)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (56)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (45)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (65)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (45)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (5).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (74)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (53)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (21)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (47)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (66)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (64)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (10)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (44)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (54)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (151)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (44)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (79)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (42)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (199)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (41)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (22)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (109)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-08_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (18)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (32)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (54)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (31)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (60)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (30)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (33)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (54)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (228)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (22)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (43)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (28)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (71)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (10)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (45)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (49)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (3)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-02_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (23)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (32)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (25)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (20)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (49)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (28)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (73)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (27)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (32)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (59)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (44)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (41)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (48)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (1)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (63)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (78)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (20)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (6)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (45)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (199)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (21).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (69)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (21)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (67)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (37)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (25)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (12)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (1)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (45)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-12_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (21)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (25)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (26)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (48)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (55).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (53)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (23)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (45)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (190)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (215)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (18)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (55)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (80)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (158)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (1)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (6)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (54)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (190)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (50)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (26)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (44)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (1).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (41)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (42)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (68)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (16)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (18).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (79)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (76)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (29)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (35)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (49)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (50)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (48)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (16)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (52)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (62)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (9)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (36)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (45)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (38)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (59)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (6)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (6)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (65)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (3)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (126)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (27)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (60)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (32)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (40)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (55)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (18)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (202).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (104)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (36)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (57)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (59)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (79)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (20)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (13)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (32).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (7).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (9)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (6).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-13_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (43).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (33)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (131)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (184)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (5)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (51)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (65)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (11)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (33)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (50)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (209)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (19)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (51).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (6)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (40)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-02_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (33)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (63)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (126)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (184)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (8)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (6)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (69)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (41)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (45).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (8).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (66)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (56)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (28)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (21)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (20)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (52)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (78)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (18)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-16_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (75)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (88)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (16)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (19)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (19)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (22).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (240).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (9)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (28)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (28)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (30)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (148).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-14_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (41)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (27)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (19)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (17)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (79)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (209)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (151)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (26)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-14_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (26)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (55)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (28)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (7)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (6)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (8).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (10)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (54)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (65)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (80)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (50).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (57).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (228)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (18)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (31)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (10)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (149)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (45)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (41)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (104).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (53)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (57)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (40)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-20_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (36)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-14_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (17)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (6)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (33)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-22_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (34)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (53)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (56)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (48)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (88)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (11)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (46)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (34)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (21).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (36)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (29)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (42)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (17)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (42)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-12_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (24)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (28)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (2)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (104)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (109)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (17)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (228)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (39)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (28)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (23)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (28)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (65)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (72)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (31)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (47)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (49)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (240)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-22_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (48)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (12)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (80)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (61)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (67)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (228).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (19)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-08_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (20)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (31)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (1)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-12.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (2)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (23)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (67)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (19)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (31)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (10)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (42).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (240).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (49).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (11)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (27)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (53)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (2)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (45).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (149)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (88)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (50)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (6)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (48)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (148)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-08_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (26)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (13)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (52)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (11)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-01_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (53)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (1)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-02_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (56)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (53).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-08_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-14_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (1)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (48)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (40)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (33)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (54)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-12_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (174)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (70)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (68)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (53)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (76)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (78)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (202)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (28)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (73)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (228)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-13_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (13)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (149).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (21)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (41)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (184)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (50).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (74)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (49)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (16)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (73)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (33)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-02.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (18)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (46)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (184)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (71)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (199)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (27)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (31)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (59)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (73)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (149)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (77)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (39)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (240)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (18)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (50)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (79)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (11)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (58)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (25)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (49)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (61)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (2)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (44)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (2)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-08_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (18)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-02_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (18)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (33)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (7)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (209).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (45)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-13_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (36)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (158).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (78)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (68)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (148)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (19)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (66)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (49)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-02_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (126)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (2)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (57)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (20)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (21)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (27)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (17)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (23)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (77)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (30)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (33)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (36).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (16)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (240)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (53)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (33)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (8)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-13_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-01_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-20_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (1)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (61)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (10).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (48)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (9)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (27).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (34)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-21_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (50)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (19)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (13)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-23_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (126).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (49)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (44)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (209)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (13)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (80)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-13_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (104).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (51)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (13)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (8)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (24)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (75)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (34)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-02_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (1)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (1)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (80)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-18_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (45).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (2)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (42)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (39)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (55)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (47)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-09_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (55).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (184)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (149)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (42)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (23)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (36)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (151)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (59)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (52)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-27_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (37)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (171)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (109)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (51)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (218)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (16)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (27).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (33)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (218)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (228).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-22.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-16.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (158)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (41)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (11)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (202)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (77)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (39)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (13)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (158).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (45)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (80).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (67)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-26_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-08_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (38)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (43)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (13)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (33)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (12)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-18.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (12)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (202)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (33)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-09_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (240).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (18)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (77)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (17)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (21)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (19)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (199)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (111)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-14.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (50)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (1)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (41)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (43)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (75)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (174)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (20)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (57)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (40)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (59)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (20)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (47)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-24_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (5)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (17)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (18)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-06_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-10.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (88)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (35)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (10)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (78)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (175)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (43)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (30)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (88)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-16.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (34)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (5).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-06_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-17.png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (14)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (151)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (45)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (49)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-02_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (51)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (4)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (15)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (212)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-07_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (56)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (11)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (5)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (46)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-04_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (65)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (209)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (37)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (8)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-05_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (23)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (50)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (30)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-16_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (39)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-14_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (49)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (52)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (62)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (112)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/C (52)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (11)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-03_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-12_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (37)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (38)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (43)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (26)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (173)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-19_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-long (57).png
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (141)_vflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (97)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (158)_hflip.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (7)_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cellulose-short (184)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-15_rotate90.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (3)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (37)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (80)_rotate270.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/newlong (38)_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Bubble-22_rotate180.jpg
+C:/Users/Yang/Documents/极性杂质项目督导/synthetic_mfi_particle_tool/outputs/chen_real_mfi_dataset/images/train/Cu-04_rotate270.jpg

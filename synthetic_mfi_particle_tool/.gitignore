@@ -1,0 +1,10 @@
+.venv-yolo/
+__pycache__/
+*.pyc
+outputs/uploaded_images/
+outputs/manual_label_library/
+outputs/runs/
+outputs/impurity_scan_outputs/
+*.zip
+*.docx
+*.pdf

@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>变压器油中典型游离杂质颗粒识别系统YOLO</title>
+    <link rel="stylesheet" href="/static/styles.css?v=20260730a" />
+  </head>
+  <body>
+    <div id="appLoading" class="app-loading" role="status" aria-live="polite">
+      <div class="app-loading-card">
+        <div class="loading-brand">YOLO 杂质识别系统</div>
+        <h2 id="appLoadingTitle">正在启动应用</h2>
+        <p id="appLoadingDetail">正在连接后端服务...</p>
+        <div class="app-loading-track"><i id="appLoadingBar"></i></div>
+        <span id="appLoadingPercent">0%</span>
+      </div>
+    </div>
+    <main class="app-shell">
+      <aside class="sample-panel">
+        <div class="panel-title">
+          <h1>变压器油中典型游离杂质颗粒识别系统YOLO</h1>
+          <span id="sampleCount">加载中</span>
+        </div>
+        <nav id="sideNav" class="side-nav"></nav>
+        <div class="toolbar" hidden>
+          <button id="prevBtn" title="上一张" type="button">‹</button>
+          <button id="nextBtn" title="下一张" type="button">›</button>
+          <select id="splitFilter" title="数据集分组">
+            <option value="all">全部</option>
+            <option value="train">训练集</option>
+            <option value="val">验证集</option>
+            <option value="test">测试集</option>
+            <option value="uploaded">检测图片</option>
+          </select>
+        </div>
+        <div id="sampleList" class="sample-list"></div>
+        <div class="upload-box action-dock">
+          <input id="uploadInput" type="file" accept=".png,.jpg,.jpeg,.bmp,.tif,.tiff,image/*" hidden />
+          <p id="uploadHint">新建或选中油样文件夹后，导入该油样的一批 MFI 图像。</p>
+        </div>
+      </aside>
+
+      <section class="viewer-panel">
+        <header class="viewer-header">
+          <div>
+            <h2 id="imageTitle">-</h2>
+            <p id="imageMeta">-</p>
+          </div>
+          <div class="viewer-actions">
+            <label class="toggle"><input id="boxToggle" type="checkbox" checked /> 检测框</label>
+            <label class="toggle"><input id="labelToggle" type="checkbox" /> 标签</label>
+            <label class="range-control">置信度 <input id="confSlider" type="range" min="0" max="95" value="0" /><span id="confValue">N/A</span></label>
+            <label class="range-control">粒径 <input id="diamSlider" type="range" min="0" max="80" value="0" /><span id="diamValue">0 μm</span></label>
+            <button id="exportBtn" type="button">导出当前 CSV</button>
+            <button id="reportBtn" type="button">导出报告 JSON</button>
+          </div>
+        </header>
+        <div id="modeBanner" class="mode-banner">正在检测推理模式...</div>
+        <div class="image-workbench">
+          <div class="canvas-stage">
+            <canvas id="imageCanvas" width="1024" height="1000"></canvas>
+          </div>
+          <aside class="particle-inspector">
+            <div class="inspector-head">
+              <div>
+                <span class="eyebrow">ROI Detail</span>
+                <h3 id="roiTitle">未选择颗粒</h3>
+              </div>
+              <strong id="roiClassBadge">-</strong>
+            </div>
+            <div class="roi-canvas-wrap">
+              <canvas id="roiCanvas" width="300" height="240"></canvas>
+            </div>
+            <div id="roiMetrics" class="roi-metrics">
+              点击左侧检测框，或点击下方表格中的颗粒编号，查看该颗粒的高清放大图和形态参数。
+            </div>
+            <section id="manualReviewPanel" class="manual-review-panel">
+              <div class="manual-review-head">
+                <strong>人工复核与标签库</strong>
+                <span id="manualReviewState">未复核</span>
+              </div>
+              <label>人工类别
+                <select id="manualClassSelect"></select>
+              </label>
+              <div class="manual-review-actions">
+                <button id="confirmManualClassBtn" type="button">确认/修改类别</button>
+                <button id="redrawBoxBtn" type="button">重画选中框</button>
+                <button id="addManualBoxBtn" type="button">新增目标</button>
+                <button id="removeManualBoxBtn" class="danger-action" type="button">标记为非目标</button>
+              </div>
+              <label class="review-scope"><input id="completeImageReview" type="checkbox" /> 整图所有目标均已检查，可进入训练标签库</label>
+              <label>复核备注<textarea id="manualReviewNote" rows="2" placeholder="可填写判断依据或样本说明"></textarea></label>
+              <button id="saveManualReviewBtn" type="button">保存人工标签</button>
+              <button id="exportManualLabelsBtn" type="button">导出已审核 YOLO 标签清单</button>
+              <p id="manualReviewHint">局部修正不会自动进入训练集；只有整图审核完成后才可导出。</p>
+            </section>
+          </aside>
+        </div>
+        <div class="legend" id="legend"></div>
+      </section>
+
+      <aside class="analysis-panel">
+        <section id="modelStatus" class="model-status"></section>
+        <section class="advanced-panel">
+          <details id="advancedSettings">
+            <summary>YOLO 高级设置</summary>
+            <div class="setting-grid">
+              <label>置信度阈值<input id="settingConf" type="range" min="0.01" max="0.95" step="0.01" value="0.25" /><span id="settingConfValue">0.25</span></label>
+              <label>其他/待复核阈值<input id="settingOtherConf" type="range" min="0.01" max="0.95" step="0.01" value="0.45" /><span id="settingOtherConfValue">0.45</span></label>
+              <label>NMS IoU<input id="settingIou" type="range" min="0.05" max="0.95" step="0.01" value="0.45" /><span id="settingIouValue">0.45</span></label>
+              <label>输入尺寸<input id="settingImgsz" type="number" min="320" max="2048" step="32" value="1024" /></label>
+              <label>最大检测数<input id="settingMaxDet" type="number" min="1" max="2000" step="10" value="300" /></label>
+              <label>设备<input id="settingDevice" type="text" placeholder="auto / cpu / 0" /></label>
+              <label>像素标定 μm/px<input id="settingPixelSize" type="number" min="0.001" step="0.001" value="0.7" /></label>
+              <p class="status-note">低于“其他/待复核阈值”但高于检测阈值的目标归入其他；空白背景不计入。定量仅适用于完整 4096×3000 原始帧。</p>
+              <label class="setting-check"><input id="settingAgnostic" type="checkbox" checked /> 类别无关 NMS</label>
+            </div>
+            <div class="setting-actions">
+              <button id="applySettingsBtn" type="button">应用设置并重新分析</button>
+              <button id="resetSettingsBtn" type="button">恢复默认</button>
+            </div>
+          </details>
+        </section>
+        <section class="metric-grid">
+          <div><span>当前颗粒数</span><strong id="totalParticles">-</strong></div>
+          <div><span>&lt;5 μm 小颗粒</span><strong id="smallParticleMetric">-</strong></div>
+          <div><span>&gt;5 μm 参照浓度</span><strong id="totalConc">-</strong></div>
+          <div><span>D10 / D50 / D90</span><strong id="diamQuantiles">-</strong></div>
+          <div><span>综合风险</span><strong id="riskLevel">-</strong></div>
+        </section>
+        <section>
+          <h3>类别统计</h3>
+          <div id="classStats" class="class-stats"></div>
+        </section>
+        <section>
+          <h3>粒径分布</h3>
+          <canvas id="histCanvas" width="310" height="150"></canvas>
+        </section>
+        <section>
+          <h3>样品级风险提示</h3>
+          <div id="sampleRisk" class="insights"></div>
+        </section>
+        <section>
+          <h3>单颗粒解释</h3>
+          <div id="selectionInfo" class="selection-info">点击图像框或表格行查看单颗粒参数、解释依据和风险提示。</div>
+        </section>
+        <section>
+          <h3>流程</h3>
+          <details class="workflow-details">
+            <summary>流程说明</summary>
+          <ol class="process">
+            <li>微流成像图像输入</li>
+            <li>YOLO 目标检测或已标注样本读取</li>
+            <li>颗粒定位、分类和数量统计</li>
+            <li>ROI 图像分割与形态学参数提取</li>
+            <li>解释依据、风险提示和报告输出</li>
+          </ol>
+          </details>
+        </section>
+      </aside>
+
+      <section class="table-panel">
+        <div class="table-head">
+          <h3>形态参数明细</h3>
+          <div>
+            <select id="classFilter"><option value="all">全部类别</option></select>
+            <span id="rowCount">0 行</span>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr id="detailHeaderRow">
+                <th>图内编号</th>
+                <th>类别</th>
+                <th>置信度</th>
+                <th>bbox</th>
+                <th>等效直径/μm</th>
+                <th>长宽比</th>
+                <th>圆度</th>
+                <th>实心度</th>
+                <th>边缘清晰度</th>
+                <th>填充率</th>
+                <th>灰度均值</th>
+              </tr>
+            </thead>
+            <tbody id="detailRows"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <section id="aggregationRiskPage" class="risk-page" hidden>
+      <header class="risk-page-header">
+        <div><span class="eyebrow">Simulation post-processing</span><h2>颗粒聚集风险</h2><p>基于释放场景、停留量、颗粒浓度与局部电场的空间风险后处理。</p></div>
+        <button id="closeAggregationRiskBtn" type="button">返回颗粒识别</button>
+      </header>
+      <div class="risk-toolbar">
+        <label>释放场景<select id="riskReleaseScenario"><option value="all">全部释放位置</option><option value="top">顶部绕组</option><option value="bottom">底部静电环</option><option value="groove">坡口邻近区</option><option value="interface">油纸界面</option></select></label>
+        <label>颗粒类型<select id="riskParticleType"><option value="all">全部颗粒</option><option value="fiber">纤维</option><option value="metal">金属</option><option value="carbon">碳颗粒</option></select></label>
+        <label>风险权重<input id="riskFieldWeight" type="range" min="0" max="100" value="35"><span id="riskFieldWeightValue">35%</span></label>
+        <button id="exportAggregationRiskBtn" type="button">导出风险数据</button>
+      </div>
+      <div class="risk-kpis"><div><span>最高风险区</span><strong id="riskHotspotName">-</strong></div><div><span>综合风险指数</span><strong id="riskHotspotScore">-</strong></div><div><span>平均停留时间</span><strong id="riskDwellValue">-</strong></div><div><span>电场暴露</span><strong id="riskFieldValue">-</strong></div></div>
+      <div class="risk-layout"><div class="risk-chart-card"><div class="risk-chart-tabs" id="riskChartTabs"><button class="active" data-risk-view="composite">综合风险</button><button data-risk-view="dwell">停留量</button><button data-risk-view="density">颗粒浓度</button><button data-risk-view="field">电场加权</button><button data-risk-view="flow">累计经过</button></div><canvas id="aggregationRiskCanvas" width="1100" height="600"></canvas><p id="riskChartCaption" class="risk-caption">综合风险 = 归一化停留量 × 颗粒浓度 × 电场修正 × 结构敏感性。当前为示例后处理数据，可替换为真实网格/轨迹结果。</p></div><aside class="risk-side-card"><h3>区域排序</h3><div id="riskZoneTable"></div><h3>判读提示</h3><div id="riskInterpretation" class="insights"></div></aside></div>
+    </section>
+    <script src="/static/app.js?v=20260730a"></script>
+  </body>
+</html>
