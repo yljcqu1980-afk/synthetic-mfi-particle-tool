@@ -9,6 +9,7 @@ COPY requirements.txt ./requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app_demo ./app_demo
+COPY backend ./backend
 COPY models ./models
 COPY outputs/chen_real_mfi_dataset ./outputs/chen_real_mfi_dataset
 COPY outputs/metadata ./outputs/metadata
