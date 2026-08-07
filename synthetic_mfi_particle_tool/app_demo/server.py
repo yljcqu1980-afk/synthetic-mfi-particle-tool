@@ -1092,7 +1092,7 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main() -> None:
-import argparse
+    import argparse
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--host", default="127.0.0.1")
