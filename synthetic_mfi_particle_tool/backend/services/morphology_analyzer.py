@@ -118,5 +118,38 @@ def analyze_roi(gray: np.ndarray, bbox: list[int], class_id: int) -> dict:
     }
 
 
+def candidate_polygon(gray: np.ndarray, bbox: list[int], class_id: int) -> list[list[int]]:
+    """Build an editable candidate contour inside a detection box.
+
+    OpenCV is used when available because its ordered contour is suitable for
+    YOLO segmentation labels. A convex-hull fallback keeps annotation usable
+    in lightweight environments.
+    """
+    h, w = gray.shape
+    xmin, ymin, xmax, ymax = _bbox_clip(bbox, w, h)
+    roi = gray[ymin:ymax, xmin:xmax].astype(np.float32)
+    mask = _segment_roi(roi, class_id)
+    if mask.size == 0 or int(mask.sum()) < 3:
+        return [[xmin, ymin], [xmax, ymin], [xmax, ymax], [xmin, ymax]]
+    try:
+        import cv2  # type: ignore
+
+        binary = (mask.astype(np.uint8) * 255)
+        contours, _ = cv2.findContours(binary, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        if contours:
+            contour = max(contours, key=cv2.contourArea)
+            epsilon = max(0.8, 0.006 * cv2.arcLength(contour, True))
+            points = cv2.approxPolyDP(contour, epsilon, True).reshape(-1, 2)
+            if len(points) >= 3:
+                return [[int(x + xmin), int(y + ymin)] for x, y in points]
+    except Exception:
+        pass
+    ys, xs = np.where(mask)
+    hull = _convex_hull(np.column_stack([xs, ys]).astype(np.float32))
+    if len(hull) < 3:
+        return [[xmin, ymin], [xmax, ymin], [xmax, ymax], [xmin, ymax]]
+    return [[int(round(x + xmin)), int(round(y + ymin))] for x, y in hull]
+
+
 def load_gray(image_path: Path) -> np.ndarray:
     return np.asarray(Image.open(image_path).convert("L"), dtype=np.float32)

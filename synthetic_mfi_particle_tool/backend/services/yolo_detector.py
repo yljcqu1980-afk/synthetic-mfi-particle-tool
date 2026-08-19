@@ -34,6 +34,7 @@ class DetectorStatus:
     model_path: str
     model_loaded: bool
     message: str
+    task: str = "detect"
 
 
 class YoloDetector:
@@ -69,12 +70,15 @@ class YoloDetector:
                 model_path=str(self.model_path),
                 model_loaded=False,
                 message=self.load_error or "真实 MFI YOLO 权重尚未加载。",
+                task="segment" if "seg" in self.model_path.stem.lower() else "detect",
             )
+        task = str(getattr(self.model, "task", "detect") or "detect")
         return DetectorStatus(
-            inference_mode="real_yolo",
+            inference_mode="real_yolo_seg" if task == "segment" else "real_yolo",
             model_path=str(self.model_path),
             model_loaded=True,
             message="Real YOLO model loaded.",
+            task=task,
         )
 
     def predict(
@@ -101,7 +105,8 @@ class YoloDetector:
         }
         if device.strip():
             kwargs["device"] = device.strip()
-        results = self.model(str(image_path), **kwargs)
+        source = str(image_path) if isinstance(image_path, Path) else image_path
+        results = self.model(source, **kwargs)
         elapsed_ms = (time.perf_counter() - start) * 1000.0
         detections: list[dict] = []
         if not results:
@@ -110,12 +115,13 @@ class YoloDetector:
         boxes = getattr(result, "boxes", None)
         if boxes is None:
             return detections, elapsed_ms
+        masks = getattr(result, "masks", None)
+        mask_polygons = getattr(masks, "xy", None) if masks is not None else None
         for idx, box in enumerate(boxes):
             xyxy = box.xyxy[0].tolist()
             class_id = int(box.cls[0].item())
             confidence = float(box.conf[0].item())
-            detections.append(
-                {
+            det = {
                     "id": idx,
                     "class_id": class_id,
                     "class_name": CLASS_NAMES.get(class_id, f"class_{class_id}"),
@@ -124,6 +130,11 @@ class YoloDetector:
                     "bbox": [int(round(v)) for v in xyxy],
                     "source": "real_yolo",
                 }
-            )
+            if mask_polygons is not None and idx < len(mask_polygons):
+                polygon = mask_polygons[idx].tolist()
+                if len(polygon) >= 3:
+                    det["polygon"] = [[int(round(x)), int(round(y))] for x, y in polygon]
+                    det["mask_source"] = "yolo_instance_segmentation"
+            detections.append(det)
         return detections, elapsed_ms
 

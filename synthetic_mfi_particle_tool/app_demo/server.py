@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from backend.services.explainability import particle_explanation, particle_risk_hint, sample_summary
-from backend.services.morphology_analyzer import analyze_roi, load_gray
+from backend.services.morphology_analyzer import analyze_roi, candidate_polygon, load_gray
 from backend.services.yolo_detector import CLASS_CN, CLASS_NAMES, YoloDetector
 
 
@@ -29,6 +29,7 @@ APP_DIR = Path(__file__).resolve().parent
 DATASET = ROOT / "outputs" / "chen_real_mfi_dataset"
 METADATA = ROOT / "outputs" / "metadata" / "metadata.csv"
 MODEL_PATH = ROOT / "models" / "particle_yolo.pt"
+SEG_MODEL_PATH = ROOT / "models" / "particle_yolo11_seg.pt"
 UPLOAD_DIR = ROOT / "outputs" / "uploaded_images"
 UPLOAD_META = ROOT / "outputs" / "uploaded_images" / "_uploaded_metadata.json"
 PROJECT_STATE = ROOT / "outputs" / "uploaded_images" / "_project_state.json"
@@ -48,6 +49,7 @@ PIXEL_SIZE_UM = 0.7
 FIBER_CANDIDATE_CONF = 0.08
 
 DETECTOR = YoloDetector(MODEL_PATH)
+SEG_DETECTOR = YoloDetector(SEG_MODEL_PATH)
 
 DEFAULT_INFER_SETTINGS = {
     "conf": 0.25,
@@ -83,10 +85,13 @@ def infer_settings(query: dict[str, list[str]] | None = None) -> dict:
         "device": first("device", DEFAULT_INFER_SETTINGS["device"]).strip(),
         "agnostic_nms": parse_bool(first("agnostic_nms", str(DEFAULT_INFER_SETTINGS["agnostic_nms"]))),
         "pixel_size_um": max(0.001, float(first("pixel_size_um", DEFAULT_INFER_SETTINGS["pixel_size_um"]))),
+        "model_mode": first("model_mode", "detect").strip().lower(),
     }
     settings["imgsz"] = min(max(settings["imgsz"], 320), 2048)
     settings["max_det"] = min(max(settings["max_det"], 1), 2000)
     settings["other_conf"] = max(settings["conf"], settings["other_conf"])
+    if settings["model_mode"] not in {"detect", "segment"}:
+        settings["model_mode"] = "detect"
     return settings
 
 
@@ -396,6 +401,13 @@ def normalize_manual_annotations(image_path: Path, annotations: list) -> list[di
         y1, y2 = sorted((max(0, min(height - 1, y1)), max(1, min(height, y2))))
         if x2 - x1 < 2 or y2 - y1 < 2:
             continue
+        polygon = []
+        for point in row.get("polygon") or []:
+            if not isinstance(point, (list, tuple)) or len(point) != 2:
+                continue
+            px = max(0, min(width, int(round(float(point[0])))))
+            py = max(0, min(height, int(round(float(point[1])))))
+            polygon.append([px, py])
         clean.append(
             {
                 "annotation_id": str(row.get("annotation_id") or uuid.uuid4()),
@@ -406,6 +418,8 @@ def normalize_manual_annotations(image_path: Path, annotations: list) -> list[di
                 "model_class_id": row.get("model_class_id"),
                 "model_confidence": row.get("model_confidence"),
                 "model_bbox": row.get("model_bbox"),
+                "polygon": polygon if len(polygon) >= 3 else None,
+                "mask_source": str(row.get("mask_source") or "manual_candidate") if len(polygon) >= 3 else None,
                 "position": position,
             }
         )
@@ -494,6 +508,8 @@ def apply_manual_review(payload: dict, image_path: Path) -> dict:
             "model_class_id": annotation.get("model_class_id"),
             "model_confidence": annotation.get("model_confidence"),
             "model_bbox": annotation.get("model_bbox"),
+            "polygon": annotation.get("polygon"),
+            "mask_source": annotation.get("mask_source"),
         }
         detections.append(det)
     payload["detections"] = detections
@@ -512,20 +528,32 @@ def manual_label_export() -> dict:
         if not image_path.exists():
             continue
         width, height = Image.open(image_path).size
-        lines = []
+        detection_lines = []
+        segmentation_lines = []
         for annotation in record.get("annotations") or []:
             class_id = int(annotation["class_id"])
             if class_id == 6:
                 continue
             x1, y1, x2, y2 = annotation["bbox"]
-            lines.append(
+            detection_lines.append(
                 f"{class_id} {((x1+x2)/2)/width:.6f} {((y1+y2)/2)/height:.6f} "
                 f"{(x2-x1)/width:.6f} {(y2-y1)/height:.6f}"
             )
-        images.append({"image_name": image_name, "label_file": f"{Path(image_name).stem}.txt", "yolo_labels": lines})
+            polygon = annotation.get("polygon") or []
+            if len(polygon) >= 3:
+                coords = " ".join(f"{x/width:.6f} {y/height:.6f}" for x, y in polygon)
+                segmentation_lines.append(f"{class_id} {coords}")
+        images.append({
+            "image_name": image_name,
+            "label_file": f"{Path(image_name).stem}.txt",
+            "yolo_detection_labels": detection_lines,
+            "yolo_labels": detection_lines,
+            "yolo_segmentation_labels": segmentation_lines,
+            "segmentation_complete": len(segmentation_lines) == len(detection_lines),
+        })
     return {
-        "schema_version": 1,
-        "note": "仅包含已标记为整图审核完成的图片；类别6其他/待复核不作为YOLO训练目标导出。",
+        "schema_version": 2,
+        "note": "同时导出检测框与实例分割多边形；仅整图审核完成且类别为0-5的目标可进入训练集。",
         "class_names": {str(cid): name for cid, name in CLASS_CN.items() if cid != 6},
         "eligible_image_count": len(images),
         "images": images,
@@ -560,6 +588,8 @@ META_BY_IMAGE = load_metadata()
 def detector_status() -> dict:
     status = DETECTOR.status
     model_stat = MODEL_PATH.stat() if MODEL_PATH.exists() else None
+    seg_status = SEG_DETECTOR.status
+    seg_stat = SEG_MODEL_PATH.stat() if SEG_MODEL_PATH.exists() else None
     return {
         "inference_mode": status.inference_mode,
         "model_path": status.model_path,
@@ -569,6 +599,11 @@ def detector_status() -> dict:
         "model_mtime_ns": model_stat.st_mtime_ns if model_stat else None,
         "quantification_policy": "仅完整4096×3000原始帧可定量：2.5 μL/帧，100帧=0.25 mL；裁剪图仅用于识别。",
         "default_settings": DEFAULT_INFER_SETTINGS,
+        "models": {
+            "detect": {"label": "快速检测（现有模型）", "loaded": status.model_loaded, "path": status.model_path, "message": status.message},
+            "segment": {"label": "精细分割（YOLO11n-Seg）", "loaded": seg_status.model_loaded, "path": seg_status.model_path, "message": seg_status.message, "training_required": not seg_status.model_loaded},
+        },
+        "seg_model_mtime_ns": seg_stat.st_mtime_ns if seg_stat else None,
     }
 
 
@@ -685,8 +720,9 @@ def fiber_shape_decision(class_id: int, morph: dict) -> tuple[str, str]:
     return "accept", ""
 
 
-def real_yolo_detections(image_path: Path, settings: dict | None = None) -> tuple[list[dict], float]:
+def real_yolo_detections(image_path: Path, settings: dict | None = None, detector: YoloDetector | None = None) -> tuple[list[dict], float]:
     settings = settings or DEFAULT_INFER_SETTINGS
+    detector = detector or DETECTOR
     gray = load_gray(image_path)
     height, width = gray.shape
     sources: list[tuple[object, int, int]] = [(image_path, 0, 0)]
@@ -701,7 +737,7 @@ def real_yolo_detections(image_path: Path, settings: dict | None = None) -> tupl
     raw_detections = []
     elapsed_ms = 0.0
     for source, offset_x, offset_y in sources:
-        tile_detections, tile_ms = DETECTOR.predict(
+        tile_detections, tile_ms = detector.predict(
             source,
             conf=min(settings["conf"], FIBER_CANDIDATE_CONF),
             iou=settings["iou"],
@@ -714,6 +750,8 @@ def real_yolo_detections(image_path: Path, settings: dict | None = None) -> tupl
         for det in tile_detections:
             x1, y1, x2, y2 = det["bbox"]
             det["bbox"] = [x1 + offset_x, y1 + offset_y, x2 + offset_x, y2 + offset_y]
+            if det.get("polygon"):
+                det["polygon"] = [[x + offset_x, y + offset_y] for x, y in det["polygon"]]
             det["source"] = "real_yolo_tiled_raw_frame" if len(sources) > 1 else "real_yolo_recognition_image"
             raw_detections.append(det)
     if pil_image is not None:
@@ -819,26 +857,47 @@ def sample_payload(split: str, image_name: str, settings: dict | None = None) ->
     if not image_path.exists():
         raise FileNotFoundError(image_path)
     status = detector_status()
+    requested_mode = settings.get("model_mode", "detect")
+    selected_detector = SEG_DETECTOR if requested_mode == "segment" else DETECTOR
+    selected_status = selected_detector.status
+    cache_status = dict(status)
+    if requested_mode == "segment":
+        cache_status.update({
+            "model_path": selected_status.model_path,
+            "model_loaded": selected_status.model_loaded,
+            "model_mtime_ns": status.get("seg_model_mtime_ns"),
+            "model_schema": "chen_real_mfi_seg_v1",
+        })
     if split == "uploaded":
-        cached = load_inference_cache(image_path, settings, status)
+        cached = load_inference_cache(image_path, settings, cache_status)
         if cached is not None:
             cached.update(upload_meta_for(image_name))
             return apply_manual_review(cached, image_path)
-    if status["model_loaded"]:
-        detections, elapsed_ms = real_yolo_detections(image_path, settings)
-        mode = "real_yolo"
+    if selected_status.model_loaded:
+        detections, elapsed_ms = real_yolo_detections(image_path, settings, selected_detector)
+        mode = selected_status.inference_mode
     else:
-        detections, elapsed_ms = [], 0.0
-        mode = "awaiting_real_yolo_weights"
+        if requested_mode == "segment" and DETECTOR.status.model_loaded:
+            detections, elapsed_ms = real_yolo_detections(image_path, settings, DETECTOR)
+            gray = load_gray(image_path)
+            for det in detections:
+                det["polygon"] = candidate_polygon(gray, det["bbox"], int(det["class_id"]))
+                det["mask_source"] = "automatic_candidate_for_review"
+            mode = "segmentation_annotation_candidate"
+        else:
+            detections, elapsed_ms = [], 0.0
+            mode = "awaiting_real_yolo_weights"
     qinfo = quantification_info(split, image_path)
     volume_ul = qinfo["volume_ul"]
     counts = Counter(det["class_id"] for det in detections)
     summary = sample_summary(detections)
     payload = {
         "inference_mode": mode,
-        "model_loaded": status["model_loaded"],
-        "model_path": status["model_path"],
-        "model_message": status["message"],
+        "model_loaded": selected_status.model_loaded,
+        "model_path": selected_status.model_path,
+        "model_message": selected_status.message if requested_mode == "segment" else status["message"],
+        "model_mode": requested_mode,
+        "segmentation_model_ready": SEG_DETECTOR.status.model_loaded,
         "inference_time_ms": elapsed_ms,
         "image_name": image_name,
         "split": split,
@@ -855,7 +914,7 @@ def sample_payload(split: str, image_name: str, settings: dict | None = None) ->
     }
     if split == "uploaded":
         payload.update(upload_meta_for(image_name))
-        save_inference_cache(image_path, settings, status, payload)
+        save_inference_cache(image_path, settings, cache_status, payload)
         return apply_manual_review(payload, image_path)
     return payload
 
@@ -994,6 +1053,21 @@ class Handler(SimpleHTTPRequestHandler):
         if not self._require_auth():
             return
         parsed = urllib.parse.urlparse(self.path)
+        if parsed.path.startswith("/api/contour-candidate/"):
+            image_name = urllib.parse.unquote(parsed.path.removeprefix("/api/contour-candidate/"))
+            image_path = image_path_for("uploaded", image_name)
+            if not image_path.exists():
+                return self.send_json({"error": "image not found"}, 404)
+            try:
+                data = read_json_body(self.headers, self.rfile)
+                bbox = [int(round(float(value))) for value in data.get("bbox", [])]
+                if len(bbox) != 4:
+                    raise ValueError("bbox must contain four coordinates")
+                class_id = int(data.get("class_id", 6))
+                polygon = candidate_polygon(load_gray(image_path), bbox, class_id)
+                return self.send_json({"polygon": polygon, "mask_source": "automatic_candidate_for_review"})
+            except Exception as exc:
+                return self.send_json({"error": str(exc)}, 400)
         if parsed.path.startswith("/api/manual-labels/"):
             image_name = urllib.parse.unquote(parsed.path.removeprefix("/api/manual-labels/"))
             try:

@@ -2520,3 +2520,24 @@ tr.selected td {
   cursor: crosshair;
   outline: 3px solid rgba(37, 143, 120, 0.35);
 }
+
+.canvas-stage.contour-editing {
+  cursor: crosshair;
+  outline: 3px solid rgba(143, 70, 168, 0.35);
+}
+
+.model-mode-control {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #536770;
+  font-size: 12px;
+}
+
+.model-mode-control select {
+  min-width: 190px;
+  padding: 6px 8px;
+  border: 1px solid #ccdce2;
+  border-radius: 8px;
+  background: #fff;
+}

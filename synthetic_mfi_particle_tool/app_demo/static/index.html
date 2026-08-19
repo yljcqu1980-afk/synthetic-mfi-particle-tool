@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>变压器油中典型游离杂质颗粒识别系统YOLO</title>
-    <link rel="stylesheet" href="/static/styles.css?v=20260730a" />
+    <link rel="stylesheet" href="/static/styles.css?v=20260819seg1" />
   </head>
   <body>
     <div id="appLoading" class="app-loading" role="status" aria-live="polite">
@@ -48,7 +48,14 @@
             <p id="imageMeta">-</p>
           </div>
           <div class="viewer-actions">
+            <label class="model-mode-control">识别模型
+              <select id="modelModeSelect">
+                <option value="detect">快速检测（现有模型）</option>
+                <option value="segment">精细分割（YOLO11n-Seg）</option>
+              </select>
+            </label>
             <label class="toggle"><input id="boxToggle" type="checkbox" checked /> 检测框</label>
+            <label class="toggle"><input id="maskToggle" type="checkbox" checked /> Mask轮廓</label>
             <label class="toggle"><input id="labelToggle" type="checkbox" /> 标签</label>
             <label class="range-control">置信度 <input id="confSlider" type="range" min="0" max="95" value="0" /><span id="confValue">N/A</span></label>
             <label class="range-control">粒径 <input id="diamSlider" type="range" min="0" max="80" value="0" /><span id="diamValue">0 μm</span></label>
@@ -87,6 +94,9 @@
                 <button id="confirmManualClassBtn" type="button">确认/修改类别</button>
                 <button id="redrawBoxBtn" type="button">重画选中框</button>
                 <button id="addManualBoxBtn" type="button">新增目标</button>
+                <button id="autoContourBtn" type="button">自动生成轮廓</button>
+                <button id="editContourBtn" type="button">编辑轮廓点</button>
+                <button id="finishContourBtn" type="button" hidden>完成轮廓</button>
                 <button id="removeManualBoxBtn" class="danger-action" type="button">标记为非目标</button>
               </div>
               <label class="review-scope"><input id="completeImageReview" type="checkbox" /> 整图所有目标均已检查，可进入训练标签库</label>
@@ -204,6 +214,6 @@
       <div class="risk-kpis"><div><span>最高风险区</span><strong id="riskHotspotName">-</strong></div><div><span>综合风险指数</span><strong id="riskHotspotScore">-</strong></div><div><span>平均停留时间</span><strong id="riskDwellValue">-</strong></div><div><span>电场暴露</span><strong id="riskFieldValue">-</strong></div></div>
       <div class="risk-layout"><div class="risk-chart-card"><div class="risk-chart-tabs" id="riskChartTabs"><button class="active" data-risk-view="composite">综合风险</button><button data-risk-view="dwell">停留量</button><button data-risk-view="density">颗粒浓度</button><button data-risk-view="field">电场加权</button><button data-risk-view="flow">累计经过</button></div><canvas id="aggregationRiskCanvas" width="1100" height="600"></canvas><p id="riskChartCaption" class="risk-caption">综合风险 = 归一化停留量 × 颗粒浓度 × 电场修正 × 结构敏感性。当前为示例后处理数据，可替换为真实网格/轨迹结果。</p></div><aside class="risk-side-card"><h3>区域排序</h3><div id="riskZoneTable"></div><h3>判读提示</h3><div id="riskInterpretation" class="insights"></div></aside></div>
     </section>
-    <script src="/static/app.js?v=20260730a"></script>
+    <script src="/static/app.js?v=20260819seg1"></script>
   </body>
 </html>

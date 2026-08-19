@@ -39,6 +39,8 @@ let oilClassReview = null;
 let manualDrawingMode = null;
 let manualDrawStart = null;
 let manualChanges = [];
+let contourEditing = false;
+let contourDraft = [];
 const DEFAULT_OIL_GROUP = "未归入油样";
 let activeOilGroup = DEFAULT_OIL_GROUP;
 let expandedOilGroups = new Set([DEFAULT_OIL_GROUP]);
@@ -74,6 +76,7 @@ let inferSettings = {
   device: "",
   agnostic_nms: true,
   pixel_size_um: 0.7,
+  model_mode: "detect",
 };
 
 const $ = (id) => document.getElementById(id);
@@ -151,6 +154,8 @@ function manualAnnotation(det) {
     model_class_id: det.model_class_id ?? det.predicted_class_id ?? det.class_id,
     model_confidence: det.model_confidence ?? det.confidence ?? null,
     model_bbox: det.model_bbox || [...det.bbox],
+    polygon: Array.isArray(det.polygon) ? det.polygon.map((point) => [...point]) : null,
+    mask_source: det.mask_source || null,
   };
 }
 
@@ -169,6 +174,8 @@ function syncManualReviewPanel() {
   ["confirmManualClassBtn", "redrawBoxBtn", "removeManualBoxBtn"].forEach((id) => {
     $(id).disabled = !det;
   });
+  $("autoContourBtn").disabled = !det;
+  $("editContourBtn").disabled = !det || !Array.isArray(det.polygon) || det.polygon.length < 3;
 }
 
 function setManualHint(text, isError = false) {
@@ -328,6 +335,7 @@ function settingsQuery() {
     device: inferSettings.device,
     agnostic_nms: inferSettings.agnostic_nms ? "1" : "0",
     pixel_size_um: inferSettings.pixel_size_um,
+    model_mode: inferSettings.model_mode,
   });
   return params.toString();
 }
@@ -447,12 +455,16 @@ function renderLegend() {
 function renderModelStatus() {
   const status = currentSample || appStatus;
   if (!status) return;
-  const isReal = status.inference_mode === "real_yolo";
+  const isReal = ["real_yolo", "real_yolo_seg", "segmentation_annotation_candidate"].includes(status.inference_mode);
   const isUploadedWaiting = status.inference_mode === "awaiting_real_yolo_weights";
-  const modeLabel = isReal ? "真实 MFI YOLO-P2" : isUploadedWaiting ? "等待权重" : "真实数据样本";
+  const modeLabel = status.inference_mode === "real_yolo_seg" ? "YOLO11 实例分割" : status.inference_mode === "segmentation_annotation_candidate" ? "分割标注候选" : isReal ? "现有 YOLO 检测" : isUploadedWaiting ? "等待权重" : "真实数据样本";
   $("modeBanner").className = `mode-banner ${isReal ? "real" : "demo"}`;
   $("modeBanner").textContent = isReal
-    ? "陈匡亚真实 MFI 数据模型：完整原始帧自动按 4×3 切片识别，裁剪图仅识别不定量。"
+    ? status.inference_mode === "real_yolo_seg"
+      ? "YOLO11n-Seg 精细分割：显示实例 Mask 与真实轮廓。"
+      : status.inference_mode === "segmentation_annotation_candidate"
+        ? "分割权重尚未训练；当前由现有检测模型定位并自动生成候选轮廓，供人工确认修正。"
+        : "陈匡亚真实 MFI 数据模型：完整原始帧自动按 4×3 切片识别，裁剪图仅识别不定量。"
     : isUploadedWaiting
       ? "原始图像已导入：请放置真实 YOLO 权重后运行检测，当前仅显示图像与参数设置。"
       : "已标注样本工作流：当前样图按微流成像识别流程展示检测、分类和参数提取。";
@@ -1277,6 +1289,8 @@ async function loadByIndex(index, { showLoading = true } = {}) {
     throw err;
   }
   selectedParticleId = null;
+  contourEditing = false;
+  contourDraft = [];
   syncCurrentSampleListItem();
   syncAnalyzeButton();
   syncDeleteButton();
@@ -1308,12 +1322,36 @@ function drawCanvas() {
   canvas.height = currentSample.height;
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   ctx.drawImage(currentImage, 0, 0);
-  if (!$("boxToggle").checked) return;
+  const showBoxes = $("boxToggle").checked;
+  const showMasks = $("maskToggle")?.checked;
   const showLabel = $("labelToggle").checked;
   ctx.font = "13px Segoe UI, Arial";
   activeDetections().forEach((det) => {
     const [xmin, ymin, xmax, ymax] = det.bbox;
     const color = colors[det.class_id] || "#e11d48";
+    const polygon = contourEditing && det.particle_id === selectedParticleId ? contourDraft : det.polygon;
+    if (showMasks && Array.isArray(polygon) && polygon.length >= 3) {
+      ctx.beginPath();
+      ctx.moveTo(polygon[0][0], polygon[0][1]);
+      polygon.slice(1).forEach(([x, y]) => ctx.lineTo(x, y));
+      ctx.closePath();
+      ctx.fillStyle = `${color}38`;
+      ctx.fill();
+      ctx.strokeStyle = color;
+      ctx.lineWidth = det.particle_id === selectedParticleId ? 3 : 1.5;
+      ctx.stroke();
+      if (contourEditing && det.particle_id === selectedParticleId) {
+        polygon.forEach(([x, y]) => {
+          ctx.beginPath();
+          ctx.arc(x, y, 5, 0, Math.PI * 2);
+          ctx.fillStyle = "#fff";
+          ctx.fill();
+          ctx.strokeStyle = color;
+          ctx.stroke();
+        });
+      }
+    }
+    if (!showBoxes) return;
     ctx.strokeStyle = color;
     ctx.lineWidth = det.particle_id === selectedParticleId ? 3.2 : 1.35;
     ctx.strokeRect(xmin + 0.5, ymin + 0.5, xmax - xmin, ymax - ymin);
@@ -1328,6 +1366,59 @@ function drawCanvas() {
       ctx.fillText(label, lx + 4, ly + 12);
     }
   });
+}
+
+async function generateSelectedContour() {
+  const det = selectedDetection();
+  if (!det || currentSample?.split !== "uploaded") return;
+  setManualHint("正在根据颗粒灰度边缘生成候选轮廓...");
+  const payload = await fetchJson(`/api/contour-candidate/${encodeURIComponent(currentSample.image_name)}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ bbox: det.bbox, class_id: det.class_id }),
+  });
+  det.polygon = payload.polygon;
+  det.mask_source = payload.mask_source;
+  det.manual_label = true;
+  det.manual_operation = "generate_contour";
+  manualChanges.push({ operation: "generate_contour", annotation_id: annotationId(det), point_count: det.polygon.length });
+  setManualHint(`已生成 ${det.polygon.length} 个轮廓点；请检查边缘，必要时点击“编辑轮廓点”。`);
+  drawCanvas();
+}
+
+function toggleContourEditing(enabled) {
+  const det = selectedDetection();
+  if (enabled && (!det || !Array.isArray(det.polygon) || det.polygon.length < 3)) return;
+  contourEditing = enabled;
+  contourDraft = enabled ? det.polygon.map((point) => [...point]) : [];
+  $("finishContourBtn").hidden = !enabled;
+  $("editContourBtn").hidden = enabled;
+  document.querySelector(".canvas-stage")?.classList.toggle("contour-editing", enabled);
+  setManualHint(enabled ? "编辑轮廓：点击轮廓线附近可增加点；点击已有白色节点可删除。" : "轮廓编辑已结束。记得保存人工标签。");
+  drawCanvas();
+}
+
+function handleContourEditClick(event) {
+  if (!contourEditing) return false;
+  const point = canvasImagePoint(event);
+  const nearIndex = contourDraft.findIndex(([x, y]) => Math.hypot(x - point.x, y - point.y) <= 10);
+  if (nearIndex >= 0 && contourDraft.length > 3) {
+    contourDraft.splice(nearIndex, 1);
+  } else {
+    let insertAt = contourDraft.length;
+    let bestDistance = Infinity;
+    contourDraft.forEach(([x1, y1], index) => {
+      const [x2, y2] = contourDraft[(index + 1) % contourDraft.length];
+      const dx = x2 - x1;
+      const dy = y2 - y1;
+      const t = Math.max(0, Math.min(1, ((point.x - x1) * dx + (point.y - y1) * dy) / Math.max(1, dx * dx + dy * dy)));
+      const distance = Math.hypot(point.x - (x1 + t * dx), point.y - (y1 + t * dy));
+      if (distance < bestDistance) { bestDistance = distance; insertAt = index + 1; }
+    });
+    contourDraft.splice(insertAt, 0, [point.x, point.y]);
+  }
+  drawCanvas();
+  return true;
 }
 
 function updatePanels() {
@@ -1838,6 +1929,7 @@ function readSettingsUi() {
     device: $("settingDevice").value.trim(),
     agnostic_nms: $("settingAgnostic").checked,
     pixel_size_um: Number($("settingPixelSize").value),
+    model_mode: $("modelModeSelect")?.value || inferSettings.model_mode || "detect",
   };
   syncSettingsUi();
 }
@@ -3120,6 +3212,7 @@ async function boot() {
   setAppLoading(35, "正在连接识别后端", "检查 YOLO 模型与推理参数...");
   appStatus = await fetchJson("/api/status");
   inferSettings = { ...inferSettings, ...(appStatus.default_settings || {}) };
+  $("modelModeSelect").value = inferSettings.model_mode;
   syncSettingsUi();
   renderModelStatus();
   setAppLoading(52, "正在读取图片清单", "图片较多时需要扫描文件与识别缓存...", { indeterminate: true });
@@ -3134,6 +3227,12 @@ async function boot() {
     applyFilters();
     loadByIndex(0);
   });
+  $("modelModeSelect").addEventListener("change", async () => {
+    inferSettings.model_mode = $("modelModeSelect").value;
+    invalidateOilSummaryCache();
+    setAppLoading(15, "正在切换识别模型", inferSettings.model_mode === "segment" ? "载入精细分割/轮廓标注模式..." : "载入现有快速检测模型...", { indeterminate: true });
+    try { await reloadCurrentSample(); finishAppLoading(); } catch (err) { setAppLoading(100, "模型切换失败", err.message || String(err)); }
+  });
   $("classFilter").addEventListener("change", () => {
     updatePanels();
     drawCanvas();
@@ -3147,12 +3246,15 @@ async function boot() {
     drawCanvas();
   });
   $("boxToggle").addEventListener("change", drawCanvas);
+  $("maskToggle").addEventListener("change", drawCanvas);
   $("labelToggle").addEventListener("change", drawCanvas);
   $("prevBtn").addEventListener("click", () => loadByIndex(currentIndex - 1));
   $("nextBtn").addEventListener("click", () => loadByIndex(currentIndex + 1));
   $("exportBtn").addEventListener("click", exportCurrentCsv);
   $("reportBtn").addEventListener("click", exportReport);
-  $("imageCanvas").addEventListener("click", handleCanvasClick);
+  $("imageCanvas").addEventListener("click", (event) => {
+    if (!handleContourEditClick(event)) handleCanvasClick(event);
+  });
   $("imageCanvas").addEventListener("pointerdown", (event) => {
     if (!manualDrawingMode) return;
     event.preventDefault();
@@ -3184,6 +3286,21 @@ async function boot() {
   });
   $("redrawBoxBtn").addEventListener("click", () => setManualDrawingMode("redraw"));
   $("addManualBoxBtn").addEventListener("click", () => setManualDrawingMode("add"));
+  $("autoContourBtn").addEventListener("click", async () => {
+    try { await generateSelectedContour(); } catch (err) { setManualHint(err.message || String(err), true); }
+  });
+  $("editContourBtn").addEventListener("click", () => toggleContourEditing(true));
+  $("finishContourBtn").addEventListener("click", () => {
+    const det = selectedDetection();
+    if (det && contourDraft.length >= 3) {
+      det.polygon = contourDraft.map((point) => [...point]);
+      det.mask_source = "manual_corrected";
+      det.manual_label = true;
+      det.manual_operation = "edit_contour";
+      manualChanges.push({ operation: "edit_contour", annotation_id: annotationId(det), point_count: det.polygon.length });
+    }
+    toggleContourEditing(false);
+  });
   $("removeManualBoxBtn").addEventListener("click", () => {
     const det = selectedDetection();
     if (!det) return;
